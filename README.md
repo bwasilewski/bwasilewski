@@ -1,7 +1,5 @@
 ### Hi there! 👋
 
-> I am currently looking for work! Please contact me [via email](mailto:benwasilewski@gmail.com)!
-
 My name is bwasilewski and I have been building websites since before I could drive a car. I specialize in:
 
 * JavaScript
